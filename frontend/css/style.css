@@ -755,8 +755,8 @@ footer {
 
 @media screen and (max-width: 768px) {
   .logo img {
-    width: 20vw;
-    margin-right: 5vw;
+    width: 25vw;
+    margin-right: 10vw;
   }
   .menu {
     gap: 1rem;
